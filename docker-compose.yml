@@ -5,4 +5,4 @@ services:
     ports:
       - "8181:80"
     volumes:
-      - ./app/UnamWebPanel:/var/www/html
+      - ./UnamWebPanel:/var/www/html
