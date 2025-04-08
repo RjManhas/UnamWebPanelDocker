@@ -14,7 +14,7 @@
   <?php
     if (isset($_POST['redirect'])) {
         // Redirect to another page
-        header("Location: destination.php");
+        header("Location: login");
         exit;
     }
   ?>
